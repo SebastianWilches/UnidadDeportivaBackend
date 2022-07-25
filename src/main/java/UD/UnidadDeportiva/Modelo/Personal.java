@@ -25,7 +25,7 @@ public class Personal {
     private String nom_personal;
     private String apellido1_personal;
     private String apellido2_personal;
-    private Date fechanacimiento_personal;
+    private String fechanacimiento_personal;
     private int telefono_usuario;
 
 
